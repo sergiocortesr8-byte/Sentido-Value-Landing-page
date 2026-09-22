@@ -32,4 +32,10 @@ Formato de cada entrada:
 
 ---
 
-<!-- Nuevas entradas debajo de esta línea -->
+### 2026-09-22 — Nueva regla: pedir permiso antes de tocar el proyecto
+- **Regla permanente:** siempre preguntar a Sergio antes de modificar o agregar cualquier documento o instrucción al proyecto. No crear/editar archivos del repo sin su OK explícito.
+
+### 2026-09-22 — Skill registrada: analisis-embudo-conversion
+- Se incorporó la habilidad **`analisis-embudo-conversion`** (autor original: Imperio Digital), **adaptada** al embudo de Sentido Value en `.claude/skills/analisis-embudo-conversion/SKILL.md` (v2.0-sentidovalue).
+- Adaptaciones: embudo de 7 etapas (Alcance→Anzuelo→DM→Discovery→Calificado→Agenda→Show→Venta), benchmarks high-ticket de DM (no web/e-commerce), diagnóstico cruzado con las 6 fugas del Closer, y regla del oro de cash-por-agenda. Marcada la fuga del agendamiento como punto de partida.
+- Pendiente: recalibrar benchmarks con datos reales cuando existan 2–3 meses de historia. Hoy no hay tracking sistemático de números por etapa.
