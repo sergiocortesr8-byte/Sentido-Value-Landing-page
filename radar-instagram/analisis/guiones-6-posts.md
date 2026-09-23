@@ -12,11 +12,11 @@ Disclaimer sugerido al final de cada caption: *"Contenido educativo, no asesorí
 
 ## POST 1 · Valoración de empresa famosa · Reel · keyword `VALORA`
 
-**Guion hablado (25–35 s) — tono amigable + intriga:**
-> (0–3s, gancho) "Oye, déjame explicarte algo que casi nadie te dice: puedes conocer [Apple/Nvidia] perfecto… y aun así no tener idea si su acción está cara o barata."
-> (3–10s) "Y voy a ser claro contigo: conocer la marca no es lo mismo que saber si vale lo que cuesta. Presta atención, porque acá está la clave."
-> (10–24s) "Yo lo miro con 3 preguntitas, sin adivinar nada: primero, ¿cuánto gana de verdad? Su caja, no el número bonito del papel. Segundo, ¿cuánto está creciendo? Y tercero —y esta es la que casi nadie mira— ¿a qué precio se está vendiendo frente a todo eso?"
-> (24–30s) "Y aquí viene lo bueno: con eso dejas de comprar por moda y empiezas a decidir tú. Lo mejor es que se aprende desde cero, aunque hoy no sepas nada de finanzas."
+**Guion hablado (25–35 s) — tono amigable · 2 open loops:**
+> (0–3s, gancho) [OPEN LOOP 1] "Oye, déjame explicarte algo que casi nadie te dice: puedes conocer [Apple/Nvidia] perfecto… y aun así no tener idea si su acción está cara o barata."
+> (3–10s) "Porque conocer la marca no es lo mismo que saber si vale lo que cuesta."
+> (10–24s) "Yo lo miro con 3 preguntitas, sin adivinar nada: primero, ¿cuánto gana de verdad? Su caja, no el número bonito del papel. Segundo, ¿cuánto está creciendo? Y tercero —[OPEN LOOP 2] esta es la que casi nadie mira— ¿a qué precio se está vendiendo frente a todo eso?"
+> (24–30s) "Con eso dejas de comprar por moda y empiezas a decidir tú. Y lo mejor: se aprende desde cero, aunque hoy no sepas nada de finanzas."
 > (30–35s, CTA) "Cuéntame, ¿tú la ves cara o barata? Escríbeme VALORA y te paso la Clase de Valoración paso a paso. Ahí nos vemos 🙌"
 
 **Texto en pantalla:** "¿[EMPRESA] está cara o barata?" → "1) ¿Cuánto gana? 2) ¿Cuánto crece? 3) ¿A qué precio?" → "Comenta VALORA 👇"
@@ -43,11 +43,11 @@ Disclaimer sugerido al final de cada caption: *"Contenido educativo, no asesorí
 
 ## POST 2 · Mito de la diversificación / ETF · Reel · keyword `EMPRESAS`
 
-**Guion hablado (25–35 s) — tono amigable + intriga:**
-> (0–3s) "Déjame explicarte algo que te va a incomodar un poco: tener 30 acciones no te está protegiendo tanto como crees."
-> (3–10s) "Y voy a ser honesto contigo: te vendieron que 'diversificar es menos riesgo'… y eso es solo media verdad. Espérate que te explico por qué."
+**Guion hablado (25–35 s) — tono amigable · 2 open loops:**
+> (0–3s) [OPEN LOOP 1] "Déjame explicarte algo que te va a incomodar un poco: tener 30 acciones no te está protegiendo tanto como crees."
+> (3–10s) "Sé que te vendieron que 'diversificar es menos riesgo'… y es solo media verdad."
 > (10–20s) "Cuando tienes tantas empresas que ni te acuerdas qué hace la mitad, eso no es diversificar. Es tapar con cantidad que no las analizaste. ¿Me sigues?"
-> (20–28s) "Y acá está la clave: los que la llevan de verdad hacen lo contrario. Eligen pocas, pero las entienden a fondo. No necesitas 30 apuestas… necesitas 5 o 6 decisiones que puedas defender."
+> (20–28s) [OPEN LOOP 2] "Y acá está la clave: los que la llevan de verdad hacen lo contrario. Eligen pocas, pero las entienden a fondo. No necesitas 30 apuestas… necesitas 5 o 6 decisiones que puedas defender."
 > (28–33s, CTA) "Cuéntame acá abajo: ¿cuántas tienes… y cuántas entiendes de verdad? Y si quieres, escríbeme EMPRESAS y te enseño a elegir poquitas, pero bien 💪"
 
 **Texto en pantalla:** "Tener 30 acciones NO te protege" → "El riesgo real: no entender lo que tienes" → "Comenta EMPRESAS 👇"
@@ -70,10 +70,10 @@ Disclaimer sugerido al final de cada caption: *"Contenido educativo, no asesorí
 
 ## POST 3 · Historia personal + track record · Reel · keyword `CRITERIO`
 
-**Guion hablado (30–40 s) — tono amigable + intriga:**
-> (0–4s) "Voy a ser bien honesto contigo, y me da un poco de vergüenza: una vez vendí una gran empresa puro susto."
-> (4–12s) "Déjame explicarte lo que pasó: el mercado cayó, me asusté y vendí… y después esa acción valía muchísimo más. No la perdí por mala suerte — la perdí porque no tenía criterio."
-> (12–24s) "Y presta atención, porque esto lo cambió todo: me tomé en serio formarme. Invertí más de 15 mil dólares aprendiendo de gestores profesionales, y hoy llevo +148% acumulado versus el 103% del Nasdaq. No fue suerte, fue método."
+**Guion hablado (30–40 s) — tono amigable · 2 open loops:**
+> (0–4s) [OPEN LOOP 1] "Voy a ser bien honesto contigo, y me da un poco de vergüenza: una vez vendí una gran empresa puro susto."
+> (4–12s) "El mercado cayó, me asusté y vendí… y después esa acción valía muchísimo más. No la perdí por mala suerte — la perdí porque no tenía criterio."
+> (12–24s) [OPEN LOOP 2] "Y presta atención, porque esto lo cambió todo: me tomé en serio formarme. Invertí más de 15 mil dólares aprendiendo de gestores profesionales, y hoy llevo +148% acumulado versus el 103% del Nasdaq."
 > (24–34s) "Lo que aprendí es simple: cuando entiendes el negocio, una caída deja de asustarte… la aprovechas. Y esto lo puede aprender cualquiera, partiendo de cero."
 > (34–40s, CTA) "Si te resuena y quieres invertir con criterio, escríbeme CRITERIO y te cuento cómo lo vemos juntos en Sentido Value 🙌"
 
@@ -127,10 +127,10 @@ Disclaimer sugerido al final de cada caption: *"Contenido educativo, no asesorí
 
 ## POST 5 · Inflación / patrimonio (avatar profesional) · Reel · keyword `PATRIMONIO`
 
-**Guion hablado (25–35 s) — tono amigable + intriga:**
-> (0–4s) "Déjame explicarte algo que casi nadie te cuenta: puedes ganar súper bien todos los meses… y aun así quedarte sin patrimonio."
-> (4–12s) "Y voy a ser claro contigo: tu plata en el banco se está encogiendo calladita. Cada año la inflación le quita valor — lo que hoy compras con 100, mañana te cuesta más."
-> (12–22s) "Ahora presta atención, porque acá está el giro: si tu plata está quieta, no estás ahorrando… te estás empobreciendo sin darte cuenta. Pero bien invertida, esa misma plata empieza a crecer sola, año tras año."
+**Guion hablado (25–35 s) — tono amigable · 2 open loops:**
+> (0–4s) [OPEN LOOP 1] "Déjame explicarte algo que casi nadie te cuenta: puedes ganar súper bien todos los meses… y aun así quedarte sin patrimonio."
+> (4–12s) "Tu plata en el banco se está encogiendo calladita. Cada año la inflación le quita valor — lo que hoy compras con 100, mañana te cuesta más."
+> (12–22s) [OPEN LOOP 2] "Ahora presta atención, porque acá está el giro: si tu plata está quieta, no estás ahorrando… te estás empobreciendo sin darte cuenta. Pero bien invertida, esa misma plata empieza a crecer sola, año tras año."
 > (22–30s) "Y ojo, no es que ganes poco. Es que nadie te enseñó a que tu plata trabaje por ti — sobre todo si eres profesional, te va bien, pero nunca te metiste en esto."
 > (30–35s, CTA) "Cuéntame: ¿tu plata trabaja para ti o se encoge en el banco? Escríbeme PATRIMONIO y te paso una clase para empezar desde cero, tranqui, sin tecnicismos 🙌"
 
@@ -155,10 +155,10 @@ Disclaimer sugerido al final de cada caption: *"Contenido educativo, no asesorí
 
 ## POST 6 · Trampa de valor / error caro · Reel · keyword `TRAMPA`
 
-**Guion hablado (25–35 s) — tono amigable + intriga:**
-> (0–4s) "Déjame explicarte algo antes de que compres tu próxima acción 'barata': muchas veces no es una oferta… es una trampa."
-> (4–12s) "Y voy a ser claro contigo: el precio bajo engaña. Mucha gente compra 'barato' pensando que hizo el negocio del año… y en realidad compró una empresa que se cae a pedazos."
-> (12–24s) "Presta atención, porque acá está la diferencia: barato de verdad es cuando el precio está por debajo de lo que la empresa vale, no solo porque bajó. ¿Cómo lo notas? Mirando el negocio: ¿sigue generando caja?, ¿tiene futuro?, ¿por qué está tan barata?"
+**Guion hablado (25–35 s) — tono amigable · 2 open loops:**
+> (0–4s) [OPEN LOOP 1] "Déjame explicarte algo antes de que compres tu próxima acción 'barata': muchas veces no es una oferta… es una trampa."
+> (4–12s) "Porque el precio bajo engaña. Mucha gente compra 'barato' pensando que hizo el negocio del año… y en realidad compró una empresa que se cae a pedazos."
+> (12–24s) [OPEN LOOP 2] "Y acá está la diferencia: barato de verdad es cuando el precio está por debajo de lo que la empresa vale, no solo porque bajó. ¿Cómo lo notas? Mirando el negocio: ¿sigue generando caja?, ¿tiene futuro?, ¿por qué está tan barata?"
 > (24–30s) "Al final es simple: el precio no te dice si vale. El negocio sí."
 > (30–35s, CTA) "Cuéntame, ¿te ha pasado comprar 'barato' y salir perdiendo? Escríbeme TRAMPA y te muestro cómo diferenciar una oportunidad de una trampa 🙌"
 
