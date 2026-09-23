@@ -66,3 +66,6 @@ Formato de cada entrada:
 
 ### 2026-09-23 — Preferencia de tono en reels
 - Los guiones hablados de los reels deben sonar **amigables y cercanos** (como hablarle a un amigo): "oye", "tranqui", "cuéntame", "¿me sigues?", tono cálido, no acartonado ni de clase magistral. Mantener el fondo anti-hype y el criterio.
+
+### 2026-09-23 — Frases de intriga en reels
+- Incorporar "open loops" en los reels: "déjame explicarte…", "voy a ser claro contigo…", "presta atención, porque acá está la clave…", "aquí viene el giro…". Generan curiosidad ("¿qué me va a decir?"). Máx. 1-2 por reel (gancho + una transición); no abusar para no sonar vendedor. Banco de frases en guiones-6-posts.md.
