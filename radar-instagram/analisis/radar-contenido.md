@@ -3,84 +3,98 @@
 Análisis de los **31 posts** entregados (22 jul – 21 sep 2026). Datos reales vía Windsor.ai.
 Niveles: **DATOS · PATRONES · INFERENCIAS · OPORTUNIDADES · EXPERIMENTOS**.
 
-> ⚠️ **Muestra y contexto:** cuenta pequeña, alcance orgánico bajo (75–377) y engagement en
-> unidades (guardados prom. 0,9; comentarios 0,6). **Los 31 posts son orgánicos** (0 con >1.000
-> views → ninguno promocionado). Con números tan chicos, las diferencias entre posts son de pocas
-> unidades: todo lo de abajo son **hipótesis**, no verdades. No se afirma causalidad.
+> ⚠️ **CORRECCIÓN CLAVE (pauta):** **10 de los 31 posts fueron PROMOCIONADOS con Meta Ads** (según
+> lista de Sergio) y **21 son orgánicos**. El engagement de un post pauteado **no es comparable** con
+> el orgánico. Por eso todo lo que sigue **separa orgánico de promocionado**, y las conclusiones de
+> contenido se sacan **solo de los orgánicos**.
+>
+> ⚠️ **Muestra:** cuenta pequeña, alcance orgánico 75–373, engagement en unidades (guardados orgánicos
+> prom. 0,6; comentarios 0,4). Diferencias de pocas unidades → **hipótesis**, no verdades. Sin causalidad.
 
 ---
 
-## 1. Resumen
+## 0. Orgánico vs. Promocionado (contexto)
 
-- **Formato:** 26 Reels / 5 Carruseles / 0 imágenes. Cuasi monoformato (Reels).
-- **Dos eras claras:**
-  - **Era 1 (jul – med. ago):** hook plano **"Comenta YO y te envío un mensaje/clase"**, sin valor previo.
-  - **Era 2 (fin ago – sep):** **giro estratégico** → hooks de valor, captions largos, **valoración de empresas famosas** (Starbucks, Netflix, Coca-Cola, Apple, Meta), historia personal, ETF contrarian, y **palabras clave variadas y rastreables**.
-- **Promedios:** likes 3,2 · comentarios 0,6 · guardados 0,9 · alcance 189 · views 260.
-- **Mejor post (engagement normalizado):** **Netflix "¿pagarías su acción?"** (9 sep): 5 guardados + 4 comentarios con solo 103 de alcance → mejor tasa de todo el set.
+| | Posts | Alcance prom. | Views prom. | Likes | Comentarios | Guardados |
+|---|---|---|---|---|---|---|
+| **Orgánicos** | 21 | 187 | 258 | 2,9 | 0,4 | 0,6 |
+| **Promocionados** | 10 | 194 | 263 | 4,0 | 1,1 | 1,7 |
 
-## 2. DATOS — mejores posts
+Los promocionados rinden más en engagement absoluto (esperable: reach pagado). **No se usan para
+concluir qué contenido funciona orgánicamente.** Posts pauteados: DbGtY2dyvty, DbZJi_WvFRV, DcHwFdlNqse,
+Dcekak3vX66, DcrZNPePl_4, Dcs-Na8xoZI, Dcvo8zbxn8T, Dc_9GTvPCfd, DdBRRxdkTS8, **DdFT32-PHh7 (Netflix)**.
 
-**Top guardados normalizados (guard×1000 alcance):**
-| Fecha | Post | Guard | Alcance | gv | Palabra clave |
-|---|---|---|---|---|---|
-| 9 sep | **Netflix ¿cara o barata?** | 5 | 103 | 11,7 | CLASE |
-| 24 ago | Starbucks ¿empresa cara? (carrusel) | 1 | 163 | 6,1 | YO |
-| 26 ago | "Tener 30 acciones no te protege" | 3 | 204 | 5,4 | YO |
-| 29 jul | "Comenta YO y te envío un mensaje" | 2 | 237 | 5,1 | YO |
-| 1 sep | "Te mintieron: tener 30 acciones…" | 1 | 104 | 3,8 | POCAS |
+> 🔁 **Corrección importante:** en la versión previa marqué el post de **Netflix ("¿cara o barata?")**
+> como el gran ganador. **Ese post estaba PROMOCIONADO**, así que su engagement no es mérito orgánico.
+> El patrón "valoración de empresa famosa" **no está demostrado en orgánico** (ver §OPORTUNIDADES).
 
-**Top comentarios:** Netflix (4), "Comenta YO…mensaje" 29 jul (4), "utilidades ≠ efectivo" 28 jul (3), inflación 25 ago (2).
+## 1. Resumen (solo orgánicos salvo que se indique)
+
+- **Formato:** 26 Reels / 5 Carruseles / 0 imágenes. Cuasi monoformato.
+- **Dos eras:** hasta med. ago = hook plano "Comenta YO"; fin ago–sep = hooks de valor + palabras clave variadas.
+- **Ganadores ORGÁNICOS reales:**
+  - **Guardados (normalizados):** "Tener 30 acciones no te protege" (26 ago) → gv 14,7. Hook de **contraste/mito**.
+  - **Alcance orgánico:** "Mi primera inversión la perdí" (11 sep) → 373 de alcance. Hook de **historia personal**.
+  - **Comentarios orgánicos:** "¿Sabías que una empresa puede mostrar utilidades y no generar efectivo?" (28 jul) → 3. Hook de **curiosidad/error**.
+
+## 2. DATOS — mejores ORGÁNICOS
+
+**Top guardados normalizados (orgánicos):**
+| Fecha | Post | Guard | Alcance | gv |
+|---|---|---|---|---|
+| 26 ago | "Tener 30 acciones no te protege" (mito) | 3 | 204 | 14,7 |
+| 23 jul | "¿Cómo comprar una acción minimizando el riesgo?" | 2 | 250 | 8,0 |
+| 24 ago | Starbucks ¿empresa cara? (carrusel) | 1 | 163 | 6,1 |
+
+**Top alcance orgánico:** "Mi primera inversión la perdí" (373) · "utilidades ≠ efectivo" (306) · "comenta YO/la envío" (284).
+
+**Top comentarios orgánicos:** "utilidades ≠ efectivo" (3) · luego varios con 1 (Starbucks, "30 acciones", "un solo fondo", "trampa de valor").
 
 ## 3. TEMAS
 
-- **DATO:** en la Era 2 aparecen temas concretos y repetibles: **valoración de empresas conocidas** (¿cara/barata?), **inflación/interés compuesto**, **diversificación vs. concentración**, **ETF (crítica)**, **trampa de valor**, **historia personal de error**.
-- **PATRÓN:** los temas que combinan **una empresa famosa + "¿vale lo que cuesta?"** concentran el mejor engagement (Netflix el más claro; Starbucks segundo).
-- **INFERENCIA:** el público de Sergio reacciona a **marcas que reconoce** usadas como gancho hacia el método de valoración. [Señal fuerte pero 1-2 posts; validar.]
-- **Explorar más:** serie recurrente "¿[Empresa famosa] está cara o barata?" (Apple, Coca-Cola, Netflix ya iniciados).
+- **PATRÓN (orgánico):** los temas que enganchan son **contraste/mito** (diversificación, ETF) e **historia personal**. La **valoración de marcas famosas** en orgánico (Starbucks reel, Coca-Cola, Apple) tuvo **bajo engagement** — solo brilló cuando se pauteó (Netflix).
+- **INFERENCIA:** el público orgánico reacciona más a **romper una creencia** y a **la vulnerabilidad/historia** que a la valoración técnica de una marca. [Señal, muestra chica.]
 
 ## 4. HOOKS
 
-- **PATRÓN — tipos que funcionan mejor (por engagement):**
-  1. **Pregunta sobre marca famosa:** "¿Pagarías la acción de Netflix hoy?" / "¿Starbucks está cara o barata?"
-  2. **Contraste/mito:** "Te mintieron: tener 30 acciones no te protege" · "Los ETF están bien… pero esto es mejor".
-  3. **Error/curiosidad:** "¿Sabías que una empresa puede mostrar utilidades y no generar efectivo?"
-  4. **Historia personal:** "Vendí Meta a US$90, hoy vale US$650" · "Mi primera inversión la perdí".
-- **PATRÓN — el que ya cansó:** "Comenta YO y te envío un mensaje" a secas (Era 1) → guardados/comentarios casi nulos.
-- **OPORTUNIDAD:** sistematizar los 4 tipos ganadores; retirar el hook plano.
+- **PATRÓN — funcionan en orgánico:**
+  1. **Contraste/mito:** "Te mintieron: tener 30 acciones no te protege" · "Los ETF están bien… pero esto es mejor".
+  2. **Historia personal:** "Mi primera inversión la perdí" · "Vendí Meta a US$90, hoy vale US$650".
+  3. **Curiosidad/error:** "¿Sabías que una empresa puede mostrar utilidades y no generar efectivo?"
+- **PATRÓN — agotado:** "Comenta YO y te envío un mensaje" a secas → engagement casi nulo.
+- **NO demostrado en orgánico:** "¿[Empresa famosa] está cara o barata?" (funcionó pauteado, no orgánico).
 
 ## 5. FORMATOS
 
-- **DATO:** 26 Reels, 5 Carruseles. Los carruseles de valor (Starbucks, ETF, "un solo fondo", comparativa de activos) están bien construidos para **guardar/compartir**, pero con alcance bajo.
-- **INFERENCIA:** el carrusel comparativo/checklist es un formato **guardable** con potencial; falta volumen para concluir.
-- **OPORTUNIDAD:** más carruseles tipo "comparación" y "checklist de valoración".
+- 26 Reels, 5 Carruseles. Los carruseles de valor están bien hechos para guardar/compartir pero con alcance bajo.
+- **OPORTUNIDAD:** más carruseles comparativos/checklist (guardables); falta volumen para concluir.
 
 ## 6. CTA y PALABRAS CLAVE
 
-- **DATO:** en la Era 2 ya se usan palabras clave variadas: **YO, CLASE, MÉTODO, EMPIEZO, POCAS, EMPRESAS, ACCIONES, ANÁLISIS, VALOR, VALUE**. En la Era 1 casi todo era "YO".
-- **PATRÓN:** ya existe el hábito de "Comenta [palabra] y te envío la clase" → base perfecta para captura n8n.
-- **PROBLEMA:** algunas palabras se repiten (VALOR en 2 posts; CLASE en varios) → para atribución n8n conviene **1 palabra única por post**, o versionar (VALOR1/VALOR2).
-- **OPORTUNIDAD:** tabla de palabras clave ↔ post ↔ recurso, para que n8n sepa qué contenido generó cada DM.
+- Era 2 ya usa palabras variadas: YO, CLASE, MÉTODO, EMPIEZO, POCAS, EMPRESAS, ACCIONES, ANÁLISIS, VALOR, VALUE.
+- **PROBLEMA:** algunas se repiten (VALOR ×2; CLASE varias) → para n8n conviene **1 palabra única por post**.
+- **OPORTUNIDAD:** tabla palabra clave ↔ post ↔ recurso ↔ (orgánico/pauta) para atribuir cada DM.
 
-## 7. Patrones de GUARDADOS y COMENTARIOS
+## 7. Patrones de GUARDADOS y COMENTARIOS (orgánico)
 
-- **Guardados:** los gana el contenido con **utilidad accionable + marca reconocible** (Netflix, "30 acciones", Starbucks). "Guarda este post" explícito ayuda.
-- **Comentarios:** los ganan **preguntas directas** al final ("¿la comprarías hoy?", "¿cuántas acciones entiendes de verdad?") y el CTA de comentar palabra.
+- **Guardados:** los gana la **utilidad accionable + romper una creencia** ("30 acciones"). El "Guarda este post" explícito ayuda.
+- **Comentarios:** los ganan **preguntas directas** al final y hooks de **curiosidad/error**.
 
 ## 8. OPORTUNIDADES (accionables)
 
-1. **Serie "¿[Empresa famosa] está cara o barata?"** como pilar (mejor patrón detectado).
-2. **Historia personal/autoridad** (Meta a $90→$650, "mi primera inversión la perdí") — humaniza y da credibilidad; escasa aún.
-3. **Carruseles comparativos/checklist** guardables.
-4. **1 palabra clave única y rastreable por post** (para n8n).
-5. **Pregunta final explícita** en cada post (sube comentarios).
-6. **Retirar el hook plano "Comenta YO"**; siempre valor antes del CTA.
+1. **Doblar el hook de contraste/mito** (es el mejor orgánico probado): diversificación, ETF, "barato ≠ oportunidad", "más info ≠ más criterio".
+2. **Historia personal/autoridad** (mejor alcance orgánico): errores propios + track record real (+148% vs Nasdaq). Escasa aún.
+3. **Probar "valoración de marca famosa" en ORGÁNICO** (sin pauta) antes de asumir que funciona — hoy solo validado con pauta.
+4. **Carruseles checklist** guardables.
+5. **1 palabra clave única y rastreable por post** (n8n).
+6. **Pregunta final explícita** en cada post (sube comentarios).
+7. **Retirar el hook plano "Comenta YO"** a secas.
 
 ## 9. EXPERIMENTOS (hipótesis a correr)
 
-- **E1:** Serie de valoración de marcas famosas (1/semana) → ¿sostiene el engagement del post de Netflix?
-- **E2:** Historia personal vs. educativo puro → ¿cuál genera más comentarios de intención?
-- **E3:** Carrusel checklist vs. Reel del mismo tema → ¿más guardados?
-- **E4:** Palabra clave única por post → ¿mejora atribución y calidad del DM (medible con n8n + planilla de embudo)?
+- **E1:** "Valoración de marca famosa" **en orgánico** vs. pauteado → ¿funciona sin pagar? (aísla el efecto pauta).
+- **E2:** Hook de contraste/mito vs. hook plano → confirmar la ventaja del contraste en orgánico.
+- **E3:** Historia personal vs. educativo puro → ¿cuál genera más comentarios de intención?
+- **E4:** Palabra clave única por post → mejora de atribución (medible con n8n + planilla de embudo).
 
-> Muestra chica y alcance bajo: correr cada experimento con varias repeticiones antes de concluir.
+> Regla al medir: **no mezclar posts pauteados con orgánicos** en la misma comparación. Etiquetar siempre.

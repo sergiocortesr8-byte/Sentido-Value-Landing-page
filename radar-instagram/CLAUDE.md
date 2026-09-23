@@ -100,9 +100,11 @@ Flujo objetivo: **POST → PALABRA CLAVE → DM → CAPTURA (n8n) → CONVERSACI
 ## 9. Reglas para analizar competencia
 
 - Cuentas fijas (no reemplazar): **@invertirdesdecero, @masalladelper (YouTube), @santinversor, @el_inversor_value, @gutierrez_capital**.
+- **SOLO información pública.** PROHIBIDO: iniciar sesión en cuentas de terceros, acceder a info privada o métricas internas, obtener guardados/alcance no públicos, conectar esas cuentas a Instagram/Windsor, o usar las credenciales de Sergio para acceder a terceros.
+- Fuentes permitidas: nombre de usuario, biografía, info visible del perfil, y **los 10 posts que Sergio cargue manualmente** (captions + likes/comentarios que él incluya).
+- Si un dato no está en lo cargado → escribir **"DATO NO DISPONIBLE"** y continuar sin inventar. (Guardados/alcance de terceros no son públicos → normalmente "DATO NO DISPONIBLE".)
 - 10 posts por cuenta. **No copiar** captions ni hooks; detectar **patrones, estructuras y oportunidades**.
-- Analizar: temas, hooks, formatos, ángulos, estructura, CTAs, problemas atacados, deseos, profundidad, storytelling, orientación a guardados/comentarios.
-- La competencia se carga manualmente (Windsor solo accede a la cuenta propia). Sin datos → marcar como pendiente, no inventar.
+- Objetivo: comparar esos 10 posts con los de Sergio y detectar hooks, temas, formatos, ángulos, estructuras, CTAs, problemas, deseos y oportunidades — **sin entrar a las cuentas de terceros**.
 
 ## 10. Reglas para generar contenido
 

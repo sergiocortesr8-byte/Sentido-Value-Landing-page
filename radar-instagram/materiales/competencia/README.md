@@ -10,10 +10,11 @@ Mapeo de carpetas (NO reemplazar estas cuentas):
 | cuenta-4 | @el_inversor_value | Instagram |
 | cuenta-5 | @gutierrez_capital | Instagram |
 
-## Estado de datos: PENDIENTE DE CARGA
+## Estado de datos: PENDIENTE DE CARGA MANUAL
 
-Windsor.ai solo accede a la cuenta propia de Sergio, **no** a cuentas de terceros. Por lo tanto los
-10 posts de cada cuenta deben cargarse manualmente (o mediante investigación posterior). Cada carpeta
-tiene una plantilla `_PLANTILLA.md`: rellena 10 posts por cuenta. **No copiar captions literalmente**;
-registrar hook, tema, formato, ángulo, estructura, CTA y métricas visibles (likes/comentarios; los
-guardados de terceros no son públicos → N/D).
+**Regla (Sergio):** SOLO información pública. No se inicia sesión, no se accede internamente ni se
+obtienen métricas privadas de estas cuentas. Los 10 posts de cada cuenta los **carga Sergio a mano**
+en `_PLANTILLA.md`. **No copiar captions literalmente**; registrar hook, tema, formato, ángulo,
+estructura, CTA y solo las métricas públicas que él incluya (likes/comentarios). Guardados y alcance
+de terceros **no son públicos** → **"DATO NO DISPONIBLE"**. Cualquier dato que falte se marca
+**"DATO NO DISPONIBLE"** y se continúa sin inventar.

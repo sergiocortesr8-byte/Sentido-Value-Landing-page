@@ -9,49 +9,61 @@
 
 ---
 
-## ⚠️ Estado: DATOS PENDIENTES DE CARGA
+## 🔒 Regla de acceso (definida por Sergio) — obligatoria
 
-Windsor.ai solo accede a la cuenta propia de Sergio, **no** a cuentas de terceros, y los
-guardados/alcance de otras cuentas **no son públicos**. Por lo tanto **este análisis no puede
-completarse con datos reales todavía.** Para no violar la regla de "no inventar", **no se describe el
-contenido específico de estas cuentas**. Las plantillas están en
-`materiales/competencia/cuenta-N/_PLANTILLA.md` (10 posts por cuenta).
+Para las cuentas de competencia **NO** se inicia sesión, **NO** se accede internamente ni se obtiene
+información privada. **Solo información pública** y lo que Sergio cargue manualmente.
 
-### Cómo completar (3 opciones)
-1. **Manual:** Sergio pega 10 posts por cuenta en cada plantilla (hook, tema, formato, ángulo, CTA, likes/comentarios visibles).
-2. **Investigación asistida:** autorizar a Claude a revisar los perfiles públicos (YouTube es accesible; Instagram es limitado por login) y resumir patrones — bajo pedido explícito.
-3. **Híbrido:** empezar por @masalladelper (YouTube, accesible) y las 3–4 de IG a mano.
+Fuentes permitidas por cuenta:
+- Nombre de usuario · biografía · info visible públicamente en el perfil.
+- Los **10 posts que Sergio cargue** (captions, likes/comentarios que él incluya).
+- Cualquier dato públicamente visible sin iniciar sesión.
+
+**Prohibido:** login en cuentas de terceros, métricas internas, guardados/alcance no públicos,
+conectar esas cuentas a Instagram/Windsor, o usar las credenciales de Sergio para acceder a terceros.
+
+**Convención:** si un dato no está en lo que Sergio cargó, se escribe **"DATO NO DISPONIBLE"** y se
+continúa sin inventarlo. (Nota: guardados y alcance de terceros **no son públicos** → casi siempre "DATO NO DISPONIBLE".)
 
 ---
 
-## Marco de análisis (a aplicar cuando existan los datos)
+## Estado: PENDIENTE DE CARGA MANUAL
 
-Para **cada cuenta** registrar y luego sintetizar:
+Aún no se han cargado los 10 posts por cuenta. Este archivo queda como **marco listo para completar**
+en cuanto Sergio pegue los posts en `materiales/competencia/cuenta-N/_PLANTILLA.md`. **No se describe
+el contenido de estas cuentas hasta tenerlo** (regla: no inventar).
 
-| Dimensión | Qué buscar |
-|---|---|
-| Temas | ¿Qué enseñan repetidamente? (valoración, dividendos, cripto, ahorro, mentalidad…) |
-| Hooks | Patrones de apertura (pregunta, error, dato, contraste, controversia, curiosidad) |
-| Formatos | Reels vs. carrusel vs. imagen vs. talking-head vs. b-roll de datos |
-| Ángulos | Educativo / práctico / opinión / storytelling / motivacional |
-| Estructura | Hook → desarrollo → CTA; longitud; uso de "guarda esto" / "comparte" |
-| CTAs | ¿A DM? ¿A link? ¿A comentar palabra clave? ¿A seguir? |
-| Problemas atacados | Qué dolor del cliente tocan |
-| Deseos explotados | Qué aspiración activan |
-| Profundidad | Superficial vs. técnico |
-| Orientación | ¿Post pensado para guardados o para comentarios? |
+---
+
+## Marco de análisis (a aplicar sobre los 10 posts de cada cuenta)
+
+Por **cada cuenta**, a partir únicamente de lo cargado:
+
+| Dimensión | Qué extraer | Si falta |
+|---|---|---|
+| Nombre / bio / posicionamiento | Del perfil público | DATO NO DISPONIBLE |
+| Temas | De los captions cargados | DATO NO DISPONIBLE |
+| Hooks | Primera línea de cada post | DATO NO DISPONIBLE |
+| Formatos | Reel / carrusel / imagen (si es visible) | DATO NO DISPONIBLE |
+| Ángulos | Educativo / práctico / opinión / storytelling / motivacional | DATO NO DISPONIBLE |
+| Estructura | Hook → desarrollo → CTA; uso de "guarda/comparte" | DATO NO DISPONIBLE |
+| CTAs | A DM / link / comentar palabra / seguir | DATO NO DISPONIBLE |
+| Problemas atacados | Qué dolor tocan | DATO NO DISPONIBLE |
+| Deseos usados | Qué aspiración activan | DATO NO DISPONIBLE |
+| Likes / comentarios | Solo si Sergio los incluyó (son públicos) | DATO NO DISPONIBLE |
+| Guardados / alcance | **No públicos** | DATO NO DISPONIBLE |
 
 ## Síntesis a producir (cuando haya datos)
 
-- **Patrones por cuenta** (ficha de 1 párrafo por cuenta).
-- **Patrones comunes entre las 5** (temas/hooks/formatos que se repiten en el nicho).
-- **Diferencias frente a Sentido Value** (qué hacen ellos que Sergio no).
-- **Oportunidades** (huecos de contenido que Sentido Value puede ocupar con su ángulo value/criterio).
+- **Ficha por cuenta** (1 párrafo): posicionamiento + patrones de hook/tema/formato/CTA observados en sus 10 posts.
+- **Patrones comunes** entre las 5 (lo que se repite en el nicho).
+- **Diferencias frente a Sentido Value** (qué hacen que Sergio no).
+- **Oportunidades** para Sentido Value (huecos que su ángulo value/criterio puede ocupar).
 
-## Hipótesis previas [INFERENCIA — a validar, NO son datos]
+## Comparación con Sentido Value (Fase 9 — cuando haya datos)
 
-Basado únicamente en el posicionamiento general del nicho (no en los posts de estas cuentas):
-- Es probable que el nicho use mucho el hook de **"empezar desde cero / con poco dinero"** y contenido muy **principiante**. Sentido Value puede diferenciarse con **criterio/valoración** para quien ya gana bien pero no construye patrimonio.
-- Es probable que abunde el contenido **motivacional/genérico**; oportunidad para Sentido Value en **método concreto y casos de empresas reales**.
+Cruzar los **21 posts orgánicos** de Sergio (excluyendo los 10 pauteados para comparar orgánico con
+orgánico donde sea posible) vs. los 50 posts de referencia, en: hooks, temas, formatos, ángulos,
+estructuras, CTAs, problemas y deseos → detectar qué explota Sergio, qué deja de explotar, y qué probar.
 
-> Estas hipótesis se marcan explícitamente como no verificadas. No usar como conclusión hasta cargar los 50 posts.
+> Sin los 10 posts por cuenta, esta sección permanece **DATO NO DISPONIBLE**. No se rellena con supuestos.

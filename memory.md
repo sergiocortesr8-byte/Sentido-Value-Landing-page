@@ -47,3 +47,13 @@ Formato de cada entrada:
 - Entregado: radar-contenido.md, analisis-competencia.md (pendiente de datos: Windsor no accede a cuentas de terceros), plan-6-posts.md (6 posts, keywords únicas: VALORA/EMPRESAS/CRITERIO/CHECKLIST/PATRIMONIO/TRAMPA).
 - **Pendiente:** cargar 10 posts de cada una de las 5 cuentas de competencia (plantillas listas). @masalladelper es YouTube (no IG).
 - La cuenta es **pequeña** (alcance orgánico 75–377) → conclusiones como hipótesis.
+
+### 2026-09-23 — Corrección: 10 posts promocionados (Meta Ads)
+- Sergio entregó la lista explícita de posts pauteados: **10 promocionados / 21 orgánicos** (la regla ">1.000 views = promo" NO aplica; rige su lista).
+- **Corrección de conclusión:** el post de Netflix ("¿cara o barata?") era **PROMOCIONADO**, no un ganador orgánico. Los ganadores ORGÁNICOS reales son: hook de **contraste/mito** ("Tener 30 acciones no te protege"), **historia personal** ("mi primera inversión la perdí", mejor alcance orgánico), y **curiosidad/error** ("utilidades ≠ efectivo").
+- El ángulo "valoración de marca famosa" queda como **hipótesis a validar en orgánico** (funcionó con pauta). Regla al medir: nunca mezclar posts pauteados con orgánicos.
+
+### 2026-09-23 — Regla permanente: competencia = solo información pública
+- Para cuentas de competencia/referencia: **NUNCA** iniciar sesión, acceder internamente, obtener métricas privadas (guardados/alcance no públicos), conectarlas a Instagram/Windsor, ni usar las credenciales de Sergio para acceder a terceros.
+- Fuentes permitidas: usuario, biografía, info pública del perfil, y los **10 posts que Sergio cargue a mano** (captions + likes/comentarios que él incluya).
+- Dato ausente → escribir **"DATO NO DISPONIBLE"** y continuar sin inventar.

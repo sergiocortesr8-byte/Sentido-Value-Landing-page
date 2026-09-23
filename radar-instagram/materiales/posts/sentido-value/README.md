@@ -7,7 +7,8 @@
 - Campos: `#, fecha, formato, hook_resumen, palabra_clave, likes, comentarios, guardados, compartidos, alcance, visualizaciones, guard_x1000_alcance, engagement_rate_%, promocionado, permalink`.
 - `guard_x1000_alcance` = guardados ÷ alcance × 1000 (normaliza guardados por audiencia).
 - `engagement_rate_%` = (likes+comentarios+guardados+compartidos) ÷ alcance × 100.
-- `promocionado` = "Sí" si visualizaciones > 1.000 (regla de Sergio: >1.000 views = Meta Ads). **En este set: 0 promocionados** → los 31 son orgánicos (máx. 492 views).
+- `promocionado` = "Sí"/"No" según la **lista explícita de Sergio** (qué posts pauteó en Meta Ads). **En este set: 10 promocionados y 21 orgánicos.**
+  *(Corrección: la regla ">1.000 views = promocionado" NO aplicó aquí; Sergio pauteó posts con menos de 1.000 views. Rige la lista que él entregó, no el umbral de views.)*
 
 ## Métricas N/D
 

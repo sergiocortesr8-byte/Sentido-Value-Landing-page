@@ -21,8 +21,8 @@ en la voz de Sentido Value. Cada idea está respaldada por un patrón real de tu
 10. **Problema que ataca:** Compra por moda / no sabe si una acción está cara.
 11. **Deseo que activa:** Decidir con criterio propio, sin depender de recomendaciones.
 12. **Nivel de conocimiento requerido:** Principiante–intermedio.
-13. **Por qué fue elegida:** Es tu formato de mayor engagement real.
-14. **Patrón que respalda:** Netflix (9 sep): 5 guardados + 4 comentarios / 103 alcance = mejor tasa del set; Starbucks 2º.
+13. **Por qué fue elegida:** Hook potente y probado **con pauta** (Meta Ads); vale la pena validarlo en orgánico.
+14. **Patrón que respalda:** El post de Netflix ("¿pagarías su acción?") tuvo el mejor engagement del set, **pero fue PROMOCIONADO** — así que este ángulo está validado con pauta, **no en orgánico todavía**. Trátalo como experimento (E1 del radar): publícalo sin pauta y compara. Los patrones probados en orgánico son los de los Posts 2 y 3.
 
 ---
 

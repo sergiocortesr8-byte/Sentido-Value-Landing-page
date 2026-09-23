@@ -4,13 +4,13 @@
 
 | # | Fecha | Formato | Hook (resumen) | Tema | Ángulo | Estructura | CTA | Palabra clave | Likes | Comentarios | Guardados | Notas |
 |---|-------|---------|----------------|------|--------|-----------|-----|---------------|-------|-------------|-----------|-------|
-| 1 |  |  |  |  |  |  |  |  |  |  | N/D |  |
-| 2 |  |  |  |  |  |  |  |  |  |  | N/D |  |
-| 3 |  |  |  |  |  |  |  |  |  |  | N/D |  |
-| 4 |  |  |  |  |  |  |  |  |  |  | N/D |  |
-| 5 |  |  |  |  |  |  |  |  |  |  | N/D |  |
-| 6 |  |  |  |  |  |  |  |  |  |  | N/D |  |
-| 7 |  |  |  |  |  |  |  |  |  |  | N/D |  |
-| 8 |  |  |  |  |  |  |  |  |  |  | N/D |  |
-| 9 |  |  |  |  |  |  |  |  |  |  | N/D |  |
-| 10 |  |  |  |  |  |  |  |  |  |  | N/D |  |
+| 1 |  |  |  |  |  |  |  |  |  |  | DATO NO DISPONIBLE |  |
+| 2 |  |  |  |  |  |  |  |  |  |  | DATO NO DISPONIBLE |  |
+| 3 |  |  |  |  |  |  |  |  |  |  | DATO NO DISPONIBLE |  |
+| 4 |  |  |  |  |  |  |  |  |  |  | DATO NO DISPONIBLE |  |
+| 5 |  |  |  |  |  |  |  |  |  |  | DATO NO DISPONIBLE |  |
+| 6 |  |  |  |  |  |  |  |  |  |  | DATO NO DISPONIBLE |  |
+| 7 |  |  |  |  |  |  |  |  |  |  | DATO NO DISPONIBLE |  |
+| 8 |  |  |  |  |  |  |  |  |  |  | DATO NO DISPONIBLE |  |
+| 9 |  |  |  |  |  |  |  |  |  |  | DATO NO DISPONIBLE |  |
+| 10 |  |  |  |  |  |  |  |  |  |  | DATO NO DISPONIBLE |  |
