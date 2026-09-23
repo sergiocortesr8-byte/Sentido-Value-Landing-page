@@ -57,3 +57,9 @@ Formato de cada entrada:
 - Para cuentas de competencia/referencia: **NUNCA** iniciar sesión, acceder internamente, obtener métricas privadas (guardados/alcance no públicos), conectarlas a Instagram/Windsor, ni usar las credenciales de Sergio para acceder a terceros.
 - Fuentes permitidas: usuario, biografía, info pública del perfil, y los **10 posts que Sergio cargue a mano** (captions + likes/comentarios que él incluya).
 - Dato ausente → escribir **"DATO NO DISPONIBLE"** y continuar sin inventar.
+
+### 2026-09-23 — Análisis de competencia completado (datos cargados por Sergio)
+- Sergio pegó 6 posts por cuenta (hook/CTA/likes/comentarios públicos). Analizados sin acceder a las cuentas. Nota: entorno bloquea IG y YouTube por egress-proxy → dependemos de carga manual.
+- Hallazgos: el nicho usa **lead magnets nombrados + palabra clave fija** (C1 "GRATIS→curso 9h", C2 "EMPIEZO→guía 5 ETF", C3 "Clase→webinar"), ángulo **"no es tarde/costo de esperar"** (C1,C2), y **CTA a clase en vivo** dispara comentarios (C3: 523 likes/157 com). Competidor más directo: **@el_inversor_value** (Chile, value, clase en vivo).
+- Oportunidades para SV: nombrar el lead magnet, usar el ángulo temporal, segmentar al "profesional que gana bien pero no construye patrimonio", poner el track record (+148% vs Nasdaq) al frente (nadie más lo tiene), CTA a clase en vivo, keyword consistente por campaña.
+- Archivos: analisis-competencia.md (completo), datos-cargados.md (fuente), plan-6-posts.md (+ sección "ajustes por competencia").

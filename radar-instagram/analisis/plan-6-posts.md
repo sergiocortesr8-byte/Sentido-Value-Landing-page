@@ -143,3 +143,27 @@ Cobertura: alcance, guardados, comentarios, autoridad, confianza y DM. No todos 
 | 6 | Comentarios/DM | Trampa de valor | "Una acción barata no siempre es una oferta" | Reel | Comenta TRAMPA → cómo distinguir | **TRAMPA** |
 
 **Palabras clave (todas únicas y rastreables):** VALORA · EMPRESAS · CRITERIO · CHECKLIST · PATRIMONIO · TRAMPA.
+
+---
+
+## Ajustes recomendados tras el análisis de competencia (2026-09-23)
+
+Aprendizajes de las 5 cuentas → aplicar a los 6 posts:
+
+1. **Nombrar el lead magnet en TODOS los CTA.** La competencia ofrece recursos concretos ("Curso de
+   9h", "guía 5 ETF"). Cambia "te envío la clase" por algo nombrado, p. ej.:
+   - Post 1/6 → *"…te envío la **Clase de Valoración paso a paso**"*.
+   - Post 4 → *"…te envío el **Checklist de las 3 Preguntas**"*.
+2. **Sumar un post con ángulo "no es tarde / el costo de esperar"** (muy usado por @invertirdesdecero y
+   @santinversor, alto engagement). Encaja con el avatar. Candidato a reemplazar/rotar con el Post 5.
+   - Hook sugerido: *"Cada año que esperas para invertir te cuesta más de lo que crees."* · Keyword: `TARDE`.
+3. **Probar un CTA a clase/sesión EN VIVO** (a @el_inversor_value le generó 523 likes / 157 comentarios).
+   Útil para Post 3 (autoridad) o un post nuevo. Refuerza comentarios + agenda.
+4. **Poner el track record al frente** (+148% vs 103% Nasdaq) — diferenciador que NINGUNA de las 5
+   cuentas tiene. Ya está en el Post 3; considéralo también como prueba en el Post 1.
+5. **Segmentar el copy** al "profesional que gana bien pero no construye patrimonio" (como C1 segmenta
+   a los +40). Aplica sobre todo al Post 5 (PATRIMONIO).
+
+> Diferenciador central a comunicar frente a la competencia: **value aplicado + acompañamiento 1-1 +
+> track record real**, para el profesional que quiere criterio propio (ni principiante total como C1/C2,
+> ni value teórico profundo como C5).
