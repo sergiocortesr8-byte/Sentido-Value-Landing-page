@@ -39,3 +39,11 @@ Formato de cada entrada:
 - Se incorporó la habilidad **`analisis-embudo-conversion`** (autor original: Imperio Digital), **adaptada** al embudo de Sentido Value en `.claude/skills/analisis-embudo-conversion/SKILL.md` (v2.0-sentidovalue).
 - Adaptaciones: embudo de 7 etapas (Alcance→Anzuelo→DM→Discovery→Calificado→Agenda→Show→Venta), benchmarks high-ticket de DM (no web/e-commerce), diagnóstico cruzado con las 6 fugas del Closer, y regla del oro de cash-por-agenda. Marcada la fuga del agendamiento como punto de partida.
 - Pendiente: recalibrar benchmarks con datos reales cuando existan 2–3 meses de historia. Hoy no hay tracking sistemático de números por etapa.
+
+### 2026-09-23 — Proyecto Radar Instagram (Semana 2) creado
+- Proyecto **independiente** en `radar-instagram/` (no toca el Closer de DMs). CLAUDE.md propio + materiales/ + analisis/.
+- Datos **reales** de Instagram (@sergiocortesinvesting) vía Windsor.ai: 31 posts (22 jul – 21 sep 2026). **Todos orgánicos** (0 con >1.000 views; regla de Sergio: >1.000 views = Meta Ads).
+- Hallazgo principal: mejor patrón = **"¿[empresa famosa] está cara o barata?"** (Netflix fue el post de mayor engagement). El hook plano "Comenta YO" ya cansó. Giro estratégico positivo desde fin de agosto.
+- Entregado: radar-contenido.md, analisis-competencia.md (pendiente de datos: Windsor no accede a cuentas de terceros), plan-6-posts.md (6 posts, keywords únicas: VALORA/EMPRESAS/CRITERIO/CHECKLIST/PATRIMONIO/TRAMPA).
+- **Pendiente:** cargar 10 posts de cada una de las 5 cuentas de competencia (plantillas listas). @masalladelper es YouTube (no IG).
+- La cuenta es **pequeña** (alcance orgánico 75–377) → conclusiones como hipótesis.
