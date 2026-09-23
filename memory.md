@@ -63,3 +63,6 @@ Formato de cada entrada:
 - Hallazgos: el nicho usa **lead magnets nombrados + palabra clave fija** (C1 "GRATIS→curso 9h", C2 "EMPIEZO→guía 5 ETF", C3 "Clase→webinar"), ángulo **"no es tarde/costo de esperar"** (C1,C2), y **CTA a clase en vivo** dispara comentarios (C3: 523 likes/157 com). Competidor más directo: **@el_inversor_value** (Chile, value, clase en vivo).
 - Oportunidades para SV: nombrar el lead magnet, usar el ángulo temporal, segmentar al "profesional que gana bien pero no construye patrimonio", poner el track record (+148% vs Nasdaq) al frente (nadie más lo tiene), CTA a clase en vivo, keyword consistente por campaña.
 - Archivos: analisis-competencia.md (completo), datos-cargados.md (fuente), plan-6-posts.md (+ sección "ajustes por competencia").
+
+### 2026-09-23 — Preferencia de tono en reels
+- Los guiones hablados de los reels deben sonar **amigables y cercanos** (como hablarle a un amigo): "oye", "tranqui", "cuéntame", "¿me sigues?", tono cálido, no acartonado ni de clase magistral. Mantener el fondo anti-hype y el criterio.
